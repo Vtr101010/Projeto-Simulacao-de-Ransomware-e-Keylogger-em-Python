@@ -126,13 +126,25 @@ Recursos demonstrados:
 
 ## Boas Práticas e Defesa (resumo)
 
-Ao trabalhar com ameaças e simulações, priorize:
+* ### 🗂 Backup offline e testado
 
-* Backup offline e testado;
-* EDR/antivírus com heurísticas comportamentais;
-* Least privilege e segmentação de rede;
-* Treinamento e conscientização sobre phishing;
-* Políticas de resposta a incidentes e recuperação.
+Manter cópias de segurança dos dados fora da rede (em HD externo ou nuvem isolada) e testar regularmente se o backup realmente pode ser restaurado.
+
+* ### 🛡 EDR/antivírus com heurísticas comportamentais
+
+Usar soluções de segurança modernas que não dependem só de assinaturas, mas também detectam comportamentos suspeitos, como criptografia em massa ou captura de teclas.
+
+* ### 🔐 Least privilege e segmentação de rede
+
+Garantir que cada usuário tenha apenas as permissões necessárias e dividir a rede em partes (segmentos) para impedir que um ataque se espalhe.
+
+* ### 📧 Treinamento e conscientização sobre phishing
+
+Ensinar usuários e funcionários a reconhecer e evitar e-mails falsos ou links maliciosos, uma das principais portas de entrada de malwares.
+
+* ### 🚨 Políticas de resposta a incidentes e recuperação
+
+Ter planos definidos sobre o que fazer em caso de ataque (quem acionar, como conter, como restaurar os sistemas) para reduzir danos e tempo de inatividade.
 
 ---
 
