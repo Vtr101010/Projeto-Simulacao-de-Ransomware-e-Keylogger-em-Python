@@ -1,0 +1,15 @@
+<img width="1198" height="914" alt="Captura de tela 2025-11-05 143401" src="https://github.com/user-attachments/assets/92fbd7e0-2377-4f76-812c-071c8d8a1bf6" />
+<img width="1301" height="771" alt="Captura de tela 2025-11-05 143436" src="https://github.com/user-attachments/assets/8a6851e1-c8a8-4e00-98d1-e49e51cdbc95" />
+<img width="1457" height="832" alt="Captura de tela 2025-11-05 143517" src="https://github.com/user-attachments/assets/4652e503-1150-497d-89e8-fe142d9ff365" />
+<img width="1718" height="398" alt="Captura de tela 2025-11-05 143548" src="https://github.com/user-attachments/assets/eb1c2b37-a163-4391-a64b-c9eb857512fc" />
+<img width="1730" height="434" alt="Captura de tela 2025-11-05 143600" src="https://github.com/user-attachments/assets/f2c1bb69-1b83-438a-a4ad-de1529c3d409" />
+<img width="980" height="441" alt="Captura de tela 2025-11-05 143614" src="https://github.com/user-attachments/assets/65e1a426-2043-4c98-a932-9ef1246776ce" />
+<img width="1187" height="417" alt="Captura de tela 2025-11-05 144106" src="https://github.com/user-attachments/assets/1e4dda00-0860-44d5-b8b9-0eccda399841" />
+<img width="1776" height="962" alt="Captura de tela 2025-11-05 144309" src="https://github.com/user-attachments/assets/81423575-c1ca-487f-8483-4edfe433fd19" />
+<img width="1001" height="546" alt="Captura de tela 2025-11-05 144330" src="https://github.com/user-attachments/assets/157751bb-a875-47ae-811d-c8e2658b01fc" />
+<img width="1045" height="487" alt="Captura de tela 2025-11-05 144343" src="https://github.com/user-attachments/assets/fbe8f519-03ed-443d-953d-ab15e5c3fe6b" />
+<img width="734" height="482" alt="Captura de tela 2025-11-05 144355" src="https://github.com/user-attachments/assets/cc4f3503-7049-4664-8ef8-1d467de240d0" />
+<img width="1265" height="958" alt="Captura de tela 2025-11-05 145256" src="https://github.com/user-attachments/assets/a0d5ad67-da52-46d0-af8b-9111c47cdf56" />
+<img width="1416" height="821" alt="Captura de tela 2025-11-05 151624" src="https://github.com/user-attachments/assets/5846486d-a419-40e9-a0b0-d8bb0f89783d" />
+<img width="1618" height="595" alt="Captura de tela 2025-11-05 152337" src="https://github.com/user-attachments/assets/b147993b-a4be-4721-9b8a-67b8aea3aba0" />
+<img width="1912" height="909" alt="Captura de tela 2025-11-05 152418" src="https://github.com/user-attachments/assets/eb4eecfc-b1cf-4eb2-9bcf-9a4a991f8b57" />
