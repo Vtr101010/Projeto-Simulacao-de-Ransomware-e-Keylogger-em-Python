@@ -34,8 +34,7 @@ Todos os testes descritos aqui foram realizados em ambiente local e isolado (VSC
 ## Estrutura do Projeto
 
 ```
-Malware-Simulation/
-│
+
 │── ransomware-demo/
 │      ├── ransomware_demo_safe.py        # versão sanitizada (modo --dry-run / --confirm)
 │      └── descriptografar_demo_safe.py   # versão sanitizada de recuperação
@@ -64,7 +63,7 @@ Malware-Simulation/
 
 ## Ransomware (simulado)
 
-**Arquivo (exemplo):** `code/ransomware-demo/ransomware_demo_safe.py`
+**Arquivo (exemplo):** `ransomware-demo/ransomware_demo_safe.py`
 
 Descrição curta:
 
@@ -90,7 +89,7 @@ O script de descriptografia (`descriptografar_demo_safe.py`) faz o processo inve
 
 ## Keylogger (simulado)
 
-**Arquivo (exemplo):** `code/keylogger-demo/keylogger_demo_safe.py`
+**Arquivo (exemplo):** `keylogger-demo/keylogger_demo_safe.py`
 **Log de exemplo:** `Keylogger/log.txt`
 
 Descrição curta:
